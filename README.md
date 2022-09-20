@@ -4,8 +4,8 @@ Site imersivo com HTML5, CSS3 e Javascript do Mundo Invertido do Stranger Things
 
 LINGUAGENS:
 
-1 - HTML5
+1 - HTML 5
 
-2 - CSS3
+2 - CSS 3
 
 3 - Javascript
